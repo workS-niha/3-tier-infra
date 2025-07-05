@@ -1,0 +1,7 @@
+# Ignore all .terraform folders, anywhere
+**/.terraform/
+
+# Ignore .terraform.lock.json and .terraform.lock.hcl anywhere
+**/.terraform.lock.*
+
+
