@@ -37,7 +37,7 @@ resource "aws_subnet" "pub_sub" {
 
 # can i use for-each for public cidr
 # can you give example for public cidr for for-each
-# i use count function to lopp  public cidr but i used count.index in availability zone
+# i use count function to loop  public cidr but i used count.index in availability zone
 
 
 resource "aws_subnet" "pvt_sub" {
